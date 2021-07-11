@@ -1,9 +1,9 @@
 <?php 
 
-	$username = "root";
-	$password = "";
-	$server = "127.0.0.1";
-	$db = "book_store";
+	$username = "sql5424325";
+	$password = "9WMQeHD9uI";
+	$server = "sql5.freesqldatabase.com";
+	$db = "sql5424325";
 
 	$conn = mysqli_connect($server,$username,$password,$db);
 	
