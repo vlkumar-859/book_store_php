@@ -1,0 +1,54 @@
+th , td {
+    text-align: center;
+    border: solid 2px black;
+    width: 200px;
+    height: 40px;
+}
+.x{
+    width: 80px;
+    margin: auto;
+    text-align: center;
+}
+.x:hover{
+    background-color: yellow;
+}
+table{
+    width: 100%;
+}
+.leftBar{
+    width: 300px;
+    border: solid 2px black;
+    height: 700px;
+    display: inline-block;
+    float: left;
+}
+li{
+    height: 170px;
+    padding-top: 50px;
+    list-style-type: none;
+    padding: 70px 100px 0px 65px;
+}
+.content{
+    
+    text-align: cenetr;
+    height: 700px;
+    width: 1190px;
+    border: solid 2px black;
+    display: inline-block;
+    float: left;
+}
+*{
+    font-size: 20px;
+}
+a:visited {
+  color: black;
+}
+table {
+    border-collapse: collapse;
+}
+a:link{
+    color: black;
+}
+a:active{
+    color: black;
+}
